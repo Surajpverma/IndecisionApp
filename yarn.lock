@@ -5534,7 +5534,7 @@ schedule@^0.3.0:
   dependencies:
     object-assign "^4.1.1"
 
-schema-utils@^0.4.3, schema-utils@^0.4.4:
+schema-utils@^0.4.4:
   version "0.4.7"
   resolved "https://registry.yarnpkg.com/schema-utils/-/schema-utils-0.4.7.tgz#ba74f597d2be2ea880131746ee17d0a093c68187"
   integrity sha512-v/iwU6wvwGK8HbU9yi3/nhGzP0yGSuhQMzL6ySiec1FSrZZDkhm4noOSWzrNFo/jEc+SJY6jRTwuwbSXJPDUnQ==
@@ -6050,13 +6050,13 @@ strip-indent@^3.0.0:
   dependencies:
     min-indent "^1.0.0"
 
-style-loader@0.20.0:
-  version "0.20.0"
-  resolved "https://registry.yarnpkg.com/style-loader/-/style-loader-0.20.0.tgz#394ecb2a8e1008b0dca5f55a44fabc195e7c11bb"
-  integrity sha512-6kyGnxtXcMskoaoOolrubJ3NQGhC7Nw8IfsMvZ/KgcKjsSKe5k3eSYi0MDkjwwwZn7CA+OWWsMw2sH6c05sOOg==
+style-loader@0.23.1:
+  version "0.23.1"
+  resolved "https://registry.yarnpkg.com/style-loader/-/style-loader-0.23.1.tgz#cb9154606f3e771ab6c4ab637026a1049174d925"
+  integrity sha512-XK+uv9kWwhZMZ1y7mysB+zoihsEj4wneFWAS5qoiLwzW0WzSqMrrsIy+a3zkQJq0ipFtBpX5W3MqyRIBF/WFGg==
   dependencies:
     loader-utils "^1.1.0"
-    schema-utils "^0.4.3"
+    schema-utils "^1.0.0"
 
 supports-color@^2.0.0:
   version "2.0.0"
